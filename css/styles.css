@@ -1,0 +1,71 @@
+html {
+  color: blue;
+}
+div {
+  color: black;
+}
+#one {
+  color: red;
+}
+#two {
+  color: green;
+}
+#three {
+  color: blue;
+}
+h1 {
+    text-align: center;
+    color: purple;
+}
+
+p {
+  color: green;
+}
+
+images {
+  color: grey;
+}
+li {
+    color: darkblue;
+}
+/*.head {
+    font-style: italic;
+    font-weight: bold;
+}*/
+.group1 {
+    color: DarkRed;
+}
+.group2 {
+    color: LightSteelBlue;
+}
+.group3 {
+    color: DarkBlue;
+}
+.group4 {
+    color: FireBrick;
+    font-weight: bold;
+}
+#bluespic {
+    float: right;
+}
+.blueback {
+  background-color: blue;
+}
+.orangeback {
+  background-color: orange;
+}
+canvas {
+  width: 200pt;
+  height: 100pt;
+  margin: 10px;
+  border: solid lightgray;
+}
+input {
+  font-size: 20pt;
+}
+.red {
+  background-color: red;
+}
+.blue{
+  background-color: blue;
+}
